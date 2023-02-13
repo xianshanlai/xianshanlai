@@ -13,9 +13,9 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
+    "name": "张坤",
+    "email": "zhangkun@ymail.com",
+    "mobile": "15366136730",
     "github": "https://github.com/visiky (1.1k 粉丝)",
     "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
@@ -23,59 +23,51 @@
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2003.09.01",
+        "2007.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "东南大学",
+      "major": "信息管理与信息系统",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2005"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "通服云生未来创新开发大赛 三等奖（团队）",
+      "award_time": "2020.09"
     }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
+      "company_name": "中通咨询设计研究院",
+      "department_name": "数字城市智慧研究院",
       "work_time": [
-        "2018.06",
+        "2017.01",
         null
       ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "work_desc": "1. 担任后端负责人\r\n2. 负责后端开发人员的培训和管理；\n3. 能耗产品后端开发核心人员，负责核心业务的开发工作。"
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
+      "company_name": "中通咨询设计研究院",
+      "department_name": "城市信息工程院",
       "work_time": [
-        "2017.06",
-        "2017.12"
+        "2010.01",
+        "2016.12"
       ],
-      "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+      "work_desc": "后端开发。使用 SSH框架参与多省份能耗产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
     },
     {
-      "company_name": "数沃信息科技有限公司",
+      "company_name": "东软集团有限公司",
       "department_name": "",
       "work_time": [
-        "2017.03",
-        "2017.05"
+        "2007.09",
+        "2009.12"
       ],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "work_desc": "软件开发工程师。使用 SSM框架进行烟草行业线产品的开发"
     }
   ],
   "skillList": [],
@@ -83,7 +75,7 @@
     {
       "project_name": "数据作战室",
       "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
+      "project_time": "2021.08 - 2020.06",
       "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
       "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
     },
